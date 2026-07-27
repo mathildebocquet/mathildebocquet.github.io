@@ -38,6 +38,10 @@ nav:
       - Ressources pour les préparationnaires: ressources/pourprepa.md
   - Motivation: motivation.md
 
+markdown_extensions:
+  - pymdownx.arithmatex:
+      generic: true
+
 extra:
   generator: false
 
