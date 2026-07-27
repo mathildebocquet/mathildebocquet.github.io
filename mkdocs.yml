@@ -1,6 +1,8 @@
 site_name: "Mathilde BOCQUET"
-logo: images/IMG_2028.png
+
 theme:
+  custom_dir: overrides
+  logo: images/IMG_2028.png
   name: material
   palette:
     # Mode clair
@@ -35,6 +37,9 @@ nav:
       - Sites amis: ressources/sitesamis.md
       - Ressources pour les préparationnaires: ressources/pourprepa.md
   - Motivation: motivation.md
+
+extra:
+  generator: false
   
   
   
