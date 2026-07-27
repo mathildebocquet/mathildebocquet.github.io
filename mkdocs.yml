@@ -2,7 +2,7 @@ site_name: "Mathilde BOCQUET"
 
 theme:
   custom_dir: overrides
-  logo: images/IMG_9493.PNG
+  logo: images/photo_maths.PNG
   name: material
   palette:
     # Mode clair
