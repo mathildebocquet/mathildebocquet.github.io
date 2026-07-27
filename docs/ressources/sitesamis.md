@@ -1,4 +1,6 @@
-- [Site](https://louis-lascaud.github.io/) de Louis Lascaud, thésard à Limoges
+Quelques sites de camarades agrégés :
 
-- [Site](https://florent-michel.github.io/) de Florent Michel, professeur de mathématiques au lycée Jules Verne à Limours
+* Site de [Florent Michel](https://florent-michel.github.io/), prof de maths.
+* Site de [Louis Lascaud](https://louis-lascaud.github.io), doctorant en mathématiques à Limoges.
+* Site de [Romain Delaunay](https://delaunay-romain.github.io), algébriste du plateau de Saclay.
 
