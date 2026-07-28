@@ -13,11 +13,11 @@ Voici ma liste de développements pour l'agrégation externe de mathématiques 2
 | **120** | Anneaux Z/nZ. Applications. | Cyclicité de $(\mathbb Z/p^a\mathbb Z)^{\times}$ | Théorème chinois et résolution d'un système de congruences |
 | **121** | Nombres premiers. Applications. | Cyclicité de $(\mathbb Z/p^a\mathbb Z)^{\times}$ | Théorèmes de Sylow |
 | **122** | Anneaux principaux. Exemples et applications. | Un anneau principal est intégralement clos, $\mathbb{Z}[i]$ est euclidien, si $x \in \mathbb{Q}$ vérifie tan($2\pi x$)$\in \mathbb{Q}$ alors $x \in \{-1,0,1\}$ | Théorème chinois et résolution d'un système de congruences |
-| **123** | Corps finis. Applications. | Nombre d'irréductibles de $F_q[X]$ | Loi de réciprocité quadratique|
-| **125** | Extensions de corps. Exemples et applications. | Nombre d'irréductibles de $F_q[X]$ | Irréductibilité des polynômes cyclotomiques|
-| **127** | Exemples de nombres remarquables. Exemples d'anneaux de nombres remarquables. Applications. | Théorème des deux carrés | Irréductibilité des polynômes cyclotomiques|
+| **123** | Corps finis. Applications. | Nombre d'irréductibles de $F_q[X]$ | Cardinal de $GL_d(F_q)$ et nombre de matrices nilpotentes sur $F_q$ |
+| **125** | Extensions de corps. Exemples et applications. | Nombre d'irréductibles de $F_q[X]$ | Irréductibilité des polynômes cyclotomiques et calcul de $[e^{2i\pi/n}:\cos(\frac{2\pi}{n})$ |
+| **127** | Exemples de nombres remarquables. Exemples d'anneaux de nombres remarquables. Applications. | Un anneau principal est intégralement clos, $\mathbb{Z}[i]$ est euclidien, si $x \in \mathbb{Q}$ vérifie tan($2\pi x$)$\in \mathbb{Q}$ alors $x \in \{-1,0,1\}$ | Irréductibilité des polynômes cyclotomiques |
 | **141** | Polynômes irréductibles à une indéterminée. Corps de rupture. Exemples et applications. | Nombre d'irréductibles de $F_q[X]$ | Irréductibilité des polynômes cyclotomiques|
-| **142** | PGCD et PPCM, algorithmes de calcul. Applications. | 26 est l'unique entier entre un cube et un carré | Théorème chinois et calcul de $\varphi(n)$|
+| **142** | PGCD et PPCM, algorithmes de calcul. Applications. | Si $x,y \in G$ commutent et d'ordres premiers entre eux alors $\text{ord}(xy)=\text{ord}(x)\text{ord}(y)$ et yclicité de $(\mathbb Z/p^a\mathbb Z)^{\times}$ | Théorème chinois et résolution d'un système de congruences |
 | **144** | Racines d'un polynôme. Fonctions symétriques élémentaires. Exemples et applications. | Théorème de Kronecker et sous-groupes finis de $GL_n(\mathbb Z)$ | Irréductibilité des polynômes cyclotomiques|
 | **148** | Dimension d'un espace vectoriel (on se limitera au cas de la dimension finie). Rang. Exemples et applications. | Réduction de Frobenius | Réduction des endomorphismes normaux|
 | **149** | Déterminant. Exemples et applications. | Déterminant de Gram et inégalité de Hadamard | Différentielle du déterminant et application au wronskien|
