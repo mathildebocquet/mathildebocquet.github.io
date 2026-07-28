@@ -3,16 +3,16 @@ Voici ma liste de développements pour l'agrégation externe de mathématiques 2
 # Algèbre
 | N° | Intitulé de la leçon | Développement 1 | Développement 2 |
 | :-: | :--- | :----- | :----- |
-| **101** | Groupe opérant sur un ensemble. Exemples et applications. | Théorèmes de Sylow | Isométries du cube et coloriages|
+| **101** | Groupe opérant sur un ensemble. Exemples et applications. | Théorèmes de Sylow | Théorème de Brauer |
 | **102** | Groupe des nombres complexes de module 1. Racines de l'unité. Applications. | Irréductibilité des polynômes cyclotomiques | Matrices circulantes et suite de polygones|
 | **103** | Conjugaison dans un groupe. Exemples de sous-groupes distingués et de groupes quotients. Applications. | Théorèmes de Sylow | $A_n$ est simple|
-| **104** | Groupes finis. Exemples et applications. | Théorèmes de Sylow | $A_n$ est simple|
-| **105** | Groupe des permutations d'un enemble fini. Applications. | Isométries du cube et coloriages | $A_n$ est simple|
-| **106** | Groupe linéaire d'un espace vectoriel de dimension finie E, sous-groupes de GL(E). Applications. | Théorème de Burnside | $SO_3(\mathbb R)$ est simple|
+| **104** | Groupes finis. Exemples et applications. | Théorèmes de Sylow | Cyclicité de $(\mathbb Z/p^a\mathbb Z)^{\times}$|
+| **105** | Groupe des permutations d'un ensemble fini. Applications. | Théorème de Brauer | $A_n$ est simple|
+| **106** | Groupe linéaire d'un espace vectoriel de dimension finie E, sous-groupes de GL(E). Applications. | Cardinal de $GL_d(F_q)$ et nombre de matrices nilpotentes sur $F_q$ | Les transvections engendrent $SL(E)$|
 | **108** | Exemples de parties génératrices d'un groupe. Applications. | Cyclicité de $(\mathbb Z/p^a\mathbb Z)^{\times}$ | $A_n$ est simple|
-| **120** | Anneaux Z/nZ. Applications. | Cyclicité de $(\mathbb Z/p^a\mathbb Z)^{\times}$ | Théorème chinois et calcul de $\varphi(n)$|
-| **121** | Nombres premiers. Applications. | Cyclicité de $(\mathbb Z/p^a\mathbb Z)^{\times}$ | Loi de réciprocité quadratique|
-| **122** | Anneaux principaux. Exemples et applications. | Théorème des deux carrés | Théorème chinois et calcul de $\varphi(n)$|
+| **120** | Anneaux Z/nZ. Applications. | Cyclicité de $(\mathbb Z/p^a\mathbb Z)^{\times}$ | Théorème chinois et résolution d'un système de congruences |
+| **121** | Nombres premiers. Applications. | Cyclicité de $(\mathbb Z/p^a\mathbb Z)^{\times}$ | Théorèmes de Sylow |
+| **122** | Anneaux principaux. Exemples et applications. | Un anneau principal est intégralement clos, $\mathbb{Z}[i]$ est euclidien, si $x \in \mathbb{Q}$ vérifie tan($2\pi x$)$\in \mathbb{Q}$ alors $x \in \{-1,0,1\}$ | Théorème chinois et résolution d'un système de congruences |
 | **123** | Corps finis. Applications. | Nombre d'irréductibles de $F_q[X]$ | Loi de réciprocité quadratique|
 | **125** | Extensions de corps. Exemples et applications. | Nombre d'irréductibles de $F_q[X]$ | Irréductibilité des polynômes cyclotomiques|
 | **127** | Exemples de nombres remarquables. Exemples d'anneaux de nombres remarquables. Applications. | Théorème des deux carrés | Irréductibilité des polynômes cyclotomiques|
