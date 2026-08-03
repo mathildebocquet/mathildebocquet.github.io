@@ -65,13 +65,13 @@ Voici ma liste de développements pour l'agrégation externe de mathématiques 2
 | **235** | Problèmes d'interversion de symboles en analyse. | Intégrale de Dirichlet |Inversion de Fourier $L^1$|
 | **236** | Illustrer par des exemples quelques méthodes de calcul d'intégrales de fonctions d'une ou plusieurs variables. | Intégrale de Dirichlet | Inversion de Fourier $L^1$|
 | **239** | Fonctions définies par une intégrale dépendant d'un paramètre. Exemples et applications. | Intégrale de Dirichlet |Inversion de Fourier $L^1$|
-| **241** | Suites et séries de fonctions. Exemples et contre-exemples. | Théorème d'Abel angulaire et application | Théorème de Weiertrass et vitesse de convergence des polynômes de Bernstein|
-| **243** | Séries entières, propriétés de la somme. Exemples et applications. | Théorème d'Abel angulaire et application | Analycité des fonctions holomorphes|
-| **245** | Fonctions holomorphes et méromorphes sur un ouvert de C. Exemples et applications. | Formule des compléments | Analycité des fonctions holomorphes|
-| **246** | Séries de Fourier. Exemples et applications. | Théorème de Fejer | Théorème de Banach-Steinhaus et série de Fourier divergente|
+| **241** | Suites et séries de fonctions. Exemples et contre-exemples. | Nombres de Bell | Théorème de Weiertrass et les moments caractérisent la loi pour une va bornée |
+| **243** | Séries entières, propriétés de la somme. Exemples et applications. | Nombres de Bell | Décomposabilité de la loi de Poisson seulement comme somme de poissons |
+| **245** | Fonctions holomorphes et méromorphes sur un ouvert de C. Exemples et applications. | Décomposabilité de la loi de Poisson seulement comme somme de poissons | impasse |
+| **246** | Séries de Fourier. Exemples et applications. | Théorème de Fejer et $L^2(\mathbb{T})$ est un Hilbert | Calcul de $\zeta(2), ~ \zeta(4)$ et de $\sum \frac{1}{(2n+1)^2}$|
 | **250** | Transformation de Fourier. Applications. | Théorème de Lévy et TCL | Inversion de Fourier $L^1$|
-| **253** | Utilisation de la notion de convexité en analyse. | Une fonction continue convexe coercive dans un Hilbert admet un minimum | Projection sur un convexe fermé|
-| **261** | Loi d'une variable aléatoire : actérisations, exemples, applications. | Théorème de Lévy et TCL | Inégalité de Hoeffding et intervalle de confiance|
-| **262** | Convergence d'une suite de variables aléatoires. Théorèmes limites. Exemples et applications. | Théorème de Lévy et TCL | Inégalité de Hoeffding et application à la convergence presque sûre|
-| **264** | Variables aléatoires discrètes. Exemples et applications. | Théorème de Weiertrass et vitesse de convergence des polynômes de Bernstein | Processus de Galton-Watson|
-| **266** | Utilisation de la notion d'indépendance en probabilités. | Loi Zeta, produit eulérien et divergence des inverses des nombres premiers | Inégalité de Hoeffding et application à la convergence presque sûre|
+| **253** | Utilisation de la notion de convexité en analyse. | Théorèmes de Hahn-Banach en dimension finie | Projection sur un convexe fermé|
+| **261** | Loi d'une variable aléatoire : caractérisations, exemples, applications. | Théorème de Lévy et TCL | Décomposabilité de la loi de Poisson seulement comme somme de poissons |
+| **262** | Convergence d'une suite de variables aléatoires. Théorèmes limites. Exemples et applications. | Théorème de Lévy et TCL | Borel-Cantelli et application à la convergence ps d'une suite de va |
+| **264** | Variables aléatoires discrètes. Exemples et applications. | Décomposabilité de la loi de Poisson seulement comme somme de poissons | Processus de Galton-Watson|
+| **266** | Utilisation de la notion d'indépendance en probabilités. | Borel-Cantelli et application à la convergence ps d'une suite de va | Processus de Galton-Watson |
