@@ -6,7 +6,7 @@ Voici quelques leçons préparées au cours de l'année. Je conseille de prépar
 
 [105](../pdf/105_Groupe_Symetrique.pdf)
 
-[106](../pdf/106_Groupe_Symetrique.pdf)
+[106](../pdf/106_Groupe_Lineaire.pdf)
 
 [150](../pdf/150.pdf): leçon sur laquelle je suis passée en oral blanc et qui a été validée par mes examinateurs (note obtenue: 18).
 
