@@ -4,10 +4,20 @@ Voici quelques leçons préparées au cours de l'année. Je conseille de prépar
 
 [102](../pdf/102_Racines_unite.pdf)
 
+[103](../psf/103_Conjugaison.pdf)
+
 [105](../pdf/105_Groupe_Symetrique.pdf)
 
 [106](../pdf/106_Groupe_Lineaire.pdf)
 
+[123](../pdf/123_Corps_Finis.pdf)
+
+[125](../pdf/125_Extensions_Corps.pdf)
+
 [150](../pdf/150.pdf): leçon sur laquelle je suis passée en oral blanc et qui a été validée par mes examinateurs (note obtenue: 18).
+
+[151](../pdf/151_Espaces_Stables.pdf)
+
+[152](../pdf/152_Diagonalisation.pdf)
 
 Suite à venir...
