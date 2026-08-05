@@ -4,7 +4,7 @@ Voici quelques leçons préparées au cours de l'année. Je conseille de prépar
 
 [102](../pdf/102_Racines_unite.pdf)
 
-[103](../psf/103_Conjugaison.pdf)
+[103](../pdf/103_Conjugaison.pdf)
 
 [105](../pdf/105_Groupe_Symetrique.pdf)
 
