@@ -28,3 +28,5 @@ Voici la liste des livres qui m’ont accompagnée tout au long de ma préparati
 -Queffelec-Queffelec, \textit{Analyse complexe}: très bien pour la 243 et la 245.
 
 -un livre quelconque qui retrace le programme de MPSI: très utile pour les leçons 223, 224, 226, 228, 229, 230.
+
+Test: $\mathbb{R}$
