@@ -20,4 +20,16 @@ Voici quelques leçons préparées au cours de l'année. Je conseille de prépar
 
 [152](../pdf/152_Diagonalisation.pdf)
 
+[203](../pdf/203_Compacite.pdf)
+
+[223](../pdf/223_Suites.pdf)
+
+[226](../pdf/226_Suites_Reccurrentes.pdf): leçon sur laquelle je suis passée en classe, le plan a donc été relu par un de mes professeurs.
+
+[230](../pdf/230_Series.pdf)
+
+[241](../pdf/241_Suites_Fonctions.pdf)
+
+[243](../pdf/243_Series_Entieres.pdf): je suis passée sur cette leçon en analyse aux oraux. Le plan que j'ai proposé était quasiment le même, le jury n'avait pas l'air embêté que je parle peu d'analyse complexe (et ils ne m'en ont d'ailleurs pas parlé pendant l'oral alors que mon développement (le 2ème) en utilisait). Note obtenue: 19,25.
+
 Suite à venir...
