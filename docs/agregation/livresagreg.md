@@ -1,6 +1,6 @@
 Voici la liste des livres qui m’ont accompagnée tout au long de ma préparation de l’agrégation et que j’ai également apportés aux oraux.
 
--Rombaldi, \emph{Algèbre et géométrie}: c’est probablement le livre que j’ai le plus utilisé, que ce soit pour faire des plans, réviser les notions au programme ou trouver des développements. Il fait pratiquement tout et détaille bien les preuves.
+-Rombaldi, $\emph{Algèbre et géométrie}$: c’est probablement le livre que j’ai le plus utilisé, que ce soit pour faire des plans, réviser les notions au programme ou trouver des développements. Il fait pratiquement tout et détaille bien les preuves.
 
 -Caldero, \textit{Carnet de voyage en algébrie}: de jolis exemples pour les plans et de supers développements.
 
