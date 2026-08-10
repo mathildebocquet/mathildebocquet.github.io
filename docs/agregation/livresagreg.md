@@ -25,7 +25,14 @@ Voici la liste des livres qui m’ont accompagnée tout au long de ma préparati
 
 -Barbe-Ledoux, *Probabilités*: Pratique pour les leçons de probabilités.
 
+-Chabanol, *Probabilités et statistiques pour l'épreuve de modélisation à l'agrégation de mathématiques*: c'est un livre d'option A mais il couvre plutôt bien le programme de tronc commun. J'ai fait une partie sur les processus de Poisson dans chacune des leçons de proba grâce à ce livre.
+
 -Queffelec-Queffelec, *Analyse complexe*: très bien pour la 243 et la 245.
 
 -un livre quelconque qui retrace le programme de MPSI: très utile pour les leçons 223, 224, 226, 228, 229, 230.
+
+
+Pour l'option A:
+
+Chabanol, *Probabilités et statistiques pour l'épreuve de modélisation à l'agrégation de mathématiques*: ce livre fait absolument tout, et très bien. Si vous ne devez prendre qu'un livre pour l'option A, c'est bien lui!
 
