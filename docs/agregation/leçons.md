@@ -24,13 +24,17 @@ Voici quelques leçons préparées au cours de l'année. Je conseille de prépar
 
 [152 - Endomorphismes diagonalisables en dimension finie.](../pdf/152_Diagonalisation.pdf)
 
+[156 - Endomorphismes trigonalisables. Endomorphismes nilpotents.](../pdf/156_Tgz_Nilp.pdf)
+
 [203 - Utilisation de la notion de compacité.](../pdf/203_Compacite.pdf)
 
 [206 - Exemples d'utilisation de la notion de dimension finie en analyse.](../pdf/206_Dimension_Finie.pdf)
 
 [223 - Suites numériques. Convergence, valeurs d'adhérence. Exemples et applications.](../pdf/223_Suites.pdf)
 
-[226 - Suites vectorielles et réelles définies par une relation de récurrence u n+1 = f (u n ). Exemples. Applications à la résolution approchée d'équations.](../pdf/226_Suites_Reccurrentes.pdf): leçon sur laquelle je suis passée en classe, le plan a donc été relu par un de mes professeurs.
+[226 - Suites vectorielles et réelles définies par une relation de récurrence u n+1 = f (u n ). Exemples. Applications à la résolution approchée d'équations](../pdf/226_Suites_Reccurrentes.pdf): leçon sur laquelle je suis passée en classe, le plan a donc été relu par un de mes professeurs.
+
+[228 - Continuité, dérivabilité des fonctions réelles d'une variable réelle. Exemples et applications.](../pdf/228_Continuite_Derivabilite.pdf)
 
 [230 - Séries de nombres réels ou complexes. Comportement des restes ou des sommes partielles des séries numériques. Exemples.](../pdf/230_Series.pdf)
 
@@ -38,11 +42,15 @@ Voici quelques leçons préparées au cours de l'année. Je conseille de prépar
 
 [241 - Suites et séries de fonctions. Exemples et contre-exemples.](../pdf/241_Suites_Fonctions.pdf)
 
-[243 - Séries entières, propriétés de la somme. Exemples et applications.](../pdf/243_Series_Entieres.pdf): je suis passée sur cette leçon en analyse aux oraux. Le plan que j'ai proposé était quasiment le même, le jury n'avait pas l'air embêté que je parle peu d'analyse complexe (et ils ne m'en ont d'ailleurs pas parlé pendant l'oral alors que mon développement (le 2ème) en utilisait). Note obtenue: 19,25.
+[243 - Séries entières, propriétés de la somme. Exemples et applications](../pdf/243_Series_Entieres.pdf): je suis passée sur cette leçon en analyse aux oraux. Le plan que j'ai proposé était quasiment le même, le jury n'avait pas l'air embêté que je parle peu d'analyse complexe (et ils ne m'en ont d'ailleurs pas parlé pendant l'oral alors que mon développement (le 2ème) en utilisait). Note obtenue: 19,25.
 
-[250 - Transformation de FOURIER. Applications.](../pdf/250_TF.pdf)
+[250 - Transformation de FOURIER. Applications](../pdf/250_TF.pdf): J'ai présenté ce plan en oral blanc (non noté), on m'a reproché une quantité insuffisante d'exemples dans mon plan.
 
-[261 - Loi d'une variable aléatoire : caractérisations, exemples, applications.](../pdf/261_Loi_VA.pdf)
+[261 - Loi d'une variable aléatoire : caractérisations, exemples, applications](../pdf/261_Loi_VA.pdf): J'ai présenté ce plan devant la classe, il a donc été relu par un de mes professeurs, à l'exception de la partie sur les processus de Poisson que j'ai rajoutée après coup.
 
-[262 - Convergences d'une suite de variables aléatoires. Théorèmes limite. Exemples et applications.](../pdf/262_Suites_VA.pdf)
+[262 - Convergences d'une suite de variables aléatoires. Théorèmes limite. Exemples et applications](../pdf/262_Suites_VA.pdf): J'ai présenté ce plan devant la classe, il a donc été relu par un de mes professeurs, à l'exception de la partie sur les processus de Poisson que j'ai rajoutée après coup.
+
+
+
+Pour les oraux, je connaissais mes plans par coeur (noms des parties, livres utilisés et exemples importants), ce qui m'a fait gagner un temps précieux lors de la préparation. A partir du milieu d'année, je ne rédigeais plus mes plans de manière aussi détaillée, ça prend trop de temps. Je n'ai publié ici que les plans rédigés proprement mais si vous êtes intéressés par les autres, n'hésitez pas à me contacter.
 
