@@ -6,3 +6,5 @@ Je donne des colles en MPSI2 et en MP* au lycée Condorcet à Paris. A ce titre,
 Pour plus de détails, vous trouverez ci-joint mon [CV](./pdf/CV_08_26.pdf).
 
 Pour toutes questions ou suggestions, vous pouvez me contacter par mail à mathildebocquet[at]crans.org
+
+![](images/photo_maths_3.png)
