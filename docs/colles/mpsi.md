@@ -3,3 +3,5 @@ Les exercices et corrections seront publiés une fois les colles concernées pas
 [Colle 1](../pdf/MPSI_2026_semaine_1.pdf): Raisonnements par récurrence, par l'absurde, par analyse synthèse, résolutions d'équations et inéquations.
 
 [Colle 2](../pdf/MPSI_Semaine_2_2026.pdf): Etudes de fonctions.
+
+[Colle 3](../pdf/MPSI_Semaine_3_2026.pdf): Trigonométrie.
