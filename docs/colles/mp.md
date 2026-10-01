@@ -7,4 +7,4 @@ Pour vous faire patienter je vous laisse tout de même quelques exercices donné
 
 [Colle 2](../pdf/MP_Semaine_2_2026.pdf): Intégrales généralisées, séries et familles sommables.
 
-
+[Colle 3](../pdf/MP_Semaine_3_2026.pdf): Suites et séries de fonctions.
