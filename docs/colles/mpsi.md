@@ -5,3 +5,5 @@ Les exercices et corrections seront publiés une fois les colles concernées pas
 [Colle 2](../pdf/MPSI_Semaine_2_2026.pdf): Etudes de fonctions.
 
 [Colle 3](../pdf/MPSI_Semaine_3_2026.pdf): Trigonométrie.
+
+[Colle 5](../pdf/MPSI_Semaine_5_2026.pdf): Sommes, produits et nombres complexes.
