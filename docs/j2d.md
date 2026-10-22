@@ -13,3 +13,5 @@ Cette activité propose une initiation aux statistiques, pour que des lycéens c
 **Distance à l'horizon:**
 
 Si je me tiens debout sur la plage, quelle est la distance entre l'horizon et mes yeux? Cette activité propose de répondre à cette question, dès lors que l'on connaît le théorème de Pythagore.
+
+[L'activité et sa correction](./pdf/Distance_horizon.pdf)
