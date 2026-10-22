@@ -5,6 +5,10 @@ Je prends part au projet Sail To Sandwich en proposant des contenus mathématiqu
 
 Cette activité propose une initiation aux statistiques, pour que des lycéens comprennent comment les mathématiques permettent d'estimer le nombre d'individus d'une population. Un TP et un TP informatique sont ensuite proposés pour mettre en application les résultats mathématiques précédemment évoqués.
 
+[L'activité et sa correction](./pdf/Methode_CMR.pdf)
+
+[Le code Python associé](./pdf/code_CMR.ipynb)
+
 
 **Distance à l'horizon:**
 
