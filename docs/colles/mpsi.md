@@ -6,4 +6,8 @@ Les exercices et corrections seront publiés une fois les colles concernées pas
 
 [Colle 3](../pdf/MPSI_Semaine_3_2026.pdf): Trigonométrie.
 
+[Colle 4](../pdf/MPSI_semaine_4_2026.pdf): Nombres complexes.
+
 [Colle 5](../pdf/MPSI_Semaine_5_2026.pdf): Sommes, produits et nombres complexes.
+
+[Colle 6](../pdf/MPSI_Semaine_6_2026.pdf): Nombres complexes et sommes.
