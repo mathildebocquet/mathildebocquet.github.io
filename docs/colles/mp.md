@@ -11,4 +11,4 @@ Pour vous faire patienter je vous laisse tout de même quelques exercices donné
 
 [Colle 5](../pdf/MP_Semaine_5_2026.pdf): Idéaux et indicatrice d'Euler.
 
-[Colle 6](../pdf/MP_Semaine_6_2026.pdf)
+[Colle 6](../pdf/MP_Semaine_6_2026.pdf): Révisions d'algèbre linéaire.
