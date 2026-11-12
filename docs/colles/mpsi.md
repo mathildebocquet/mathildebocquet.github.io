@@ -11,3 +11,5 @@ Les exercices et corrections seront publiés une fois les colles concernées pas
 [Colle 5](../pdf/MPSI_Semaine_5_2026.pdf): Sommes, produits et nombres complexes.
 
 [Colle 6](../pdf/MPSI_Semaine_6_2026.pdf): Nombres complexes et sommes.
+
+[Colle 7](../pdf/MPSI_Semaine_7_2026.pdf): Calcul d'intégrales.
