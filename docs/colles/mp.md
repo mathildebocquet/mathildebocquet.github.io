@@ -16,3 +16,5 @@ Pour vous faire patienter je vous laisse tout de même quelques exercices donné
 [Colle 6](../pdf/MP_Semaine_6_2026.pdf): Révisions d'algèbre linéaire.
 
 [Colle 7](../pdf/MP_Semaine_7_2026.pdf): Réduction 1.
+
+[Colle 8](../pdf/MP_Semaine_8.2026.pdf): Réduction 2.
