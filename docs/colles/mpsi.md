@@ -13,3 +13,5 @@ Les exercices et corrections seront publiés une fois les colles concernées pas
 [Colle 6](../pdf/MPSI_Semaine_6_2026.pdf): Nombres complexes et sommes.
 
 [Colle 7](../pdf/MPSI_Semaine_7_2026.pdf): Calcul d'intégrales.
+
+[Colle 8](../pdf/MPSI_Semaine_8_2026.pdf): Equations différentielles et calcul intégral.
